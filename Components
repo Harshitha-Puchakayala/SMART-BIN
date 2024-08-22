@@ -1,0 +1,10 @@
+
+•	Plastic Waste Bin: The main body of the smart bin. Houses all the electronic components and acts as the waste container.
+•	MDF Board: Used to mount the electronic components. Provides a stable base for the ultrasonic sensor and servo motor.
+•	Arduino Nano: The microcontroller that controls the operation of the smart bin. Receives input from the ultrasonic sensor and controls the servo motor.
+•	Ultrasonic Sensor: Detects the presence of an object near the bin. Sends distance data to the Arduino Nano.
+•	9G Servo Motor: Controls the lid's movement based on the signal from the Arduino Nano. Opens the lid when trash is detected and closes it after a set period.
+•	9V HW Battery: Powers the entire circuit. Provides a portable power source for the Arduino Nano and other components.
+•	Jumper Wires: Connect various components to the Arduino Nano. Facilitate communication and power supply between components.
+•	25V 2200uF Capacitor: Stabilizes the power supply to the servo motor. Prevents sudden voltage drops that might affect the servo motor's performance.
+•	Two-Side Tape: Secures components like the ultrasonic sensor and servo motor to the MDF board or bin. Ensures stable and reliable placement of components.
